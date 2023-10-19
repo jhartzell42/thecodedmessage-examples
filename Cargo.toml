@@ -9,3 +9,7 @@ thiserror = "1.0.49"
 [[bin]]
 name = "binary"
 path = "src/binary.rs"
+
+[[bin]]
+name = "overflow"
+path = "src/overflow.rs"
